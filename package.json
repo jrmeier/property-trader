@@ -1,0 +1,21 @@
+{
+  "name": "property-trader",
+  "version": "1.0.0",
+  "description": "A property trading game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^25.3.0"
+  }
+}
