@@ -1,0 +1,26 @@
+{
+	"gameID": "db85bc86-63de-4ec7-a386-171a6ec176d2",
+	"hasStarted": false,
+	"messages": [],
+	"actions": [
+		"addPlayer"
+	],
+	"nextActions": [],
+	"current": {
+		"pos": 0,
+		"roll": {
+			"hasRolled": false,
+			"die1": 0,
+			"die2": 0,
+			"isDouble": false,
+			"doubleCount": 0
+		},
+		"player": {
+			"id": null,
+			"name": null,
+			"balance": 1500
+		}
+	},
+	"players": [],
+	"board": []
+}
